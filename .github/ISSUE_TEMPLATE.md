@@ -1,3 +1,9 @@
+<!--
+
+    再问问题之前，请先查看 https://groups.google.com/forum/#!forum/prometheus-users 或 https://prometheus.io/community/
+    或许那里已经有你想要的答案。
+-->
+
 **你在进行什么操作?**
 
 **你希望看到什么结果?**
