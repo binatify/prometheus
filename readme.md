@@ -16,4 +16,4 @@ Prometheus 交流社区，用于知识的沉淀
 ### 加入我们
 
 * QQ 群：465362780
-* Gitbook：https://www.gitbook.com/book/songjiayang/prometheus/details
+* Gitbook：[Prometheus 实战](https://www.gitbook.com/book/songjiayang/prometheus/details)
